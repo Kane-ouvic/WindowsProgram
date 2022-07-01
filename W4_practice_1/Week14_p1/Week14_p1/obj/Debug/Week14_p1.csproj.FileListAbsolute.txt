@@ -1,0 +1,7 @@
+C:\Users\Kane\source\repos\Week14_p1\Week14_p1\bin\Debug\Week14_p1.exe.config
+C:\Users\Kane\source\repos\Week14_p1\Week14_p1\bin\Debug\Week14_p1.exe
+C:\Users\Kane\source\repos\Week14_p1\Week14_p1\bin\Debug\Week14_p1.pdb
+C:\Users\Kane\source\repos\Week14_p1\Week14_p1\obj\Debug\Week14_p1.csprojAssemblyReference.cache
+C:\Users\Kane\source\repos\Week14_p1\Week14_p1\obj\Debug\Week14_p1.csproj.CoreCompileInputs.cache
+C:\Users\Kane\source\repos\Week14_p1\Week14_p1\obj\Debug\Week14_p1.exe
+C:\Users\Kane\source\repos\Week14_p1\Week14_p1\obj\Debug\Week14_p1.pdb

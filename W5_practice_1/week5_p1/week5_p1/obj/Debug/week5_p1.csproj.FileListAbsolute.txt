@@ -1,0 +1,13 @@
+C:\Users\Kane\source\repos\week5_p1\week5_p1\bin\Debug\week5_p1.exe.config
+C:\Users\Kane\source\repos\week5_p1\week5_p1\bin\Debug\week5_p1.exe
+C:\Users\Kane\source\repos\week5_p1\week5_p1\bin\Debug\week5_p1.pdb
+C:\Users\Kane\source\repos\week5_p1\week5_p1\obj\Debug\week5_p1.csprojAssemblyReference.cache
+C:\Users\Kane\source\repos\week5_p1\week5_p1\obj\Debug\week5_p1.Form1.resources
+C:\Users\Kane\source\repos\week5_p1\week5_p1\obj\Debug\week5_p1.Properties.Resources.resources
+C:\Users\Kane\source\repos\week5_p1\week5_p1\obj\Debug\week5_p1.csproj.GenerateResource.cache
+C:\Users\Kane\source\repos\week5_p1\week5_p1\obj\Debug\week5_p1.csproj.CoreCompileInputs.cache
+C:\Users\Kane\source\repos\week5_p1\week5_p1\obj\Debug\week5_p1.exe
+C:\Users\Kane\source\repos\week5_p1\week5_p1\obj\Debug\week5_p1.pdb
+C:\Users\Kane\source\repos\week5_p1\week5_p1\obj\Debug\week5_p1.Form2.resources
+C:\Users\Kane\source\repos\week5_p1\week5_p1\obj\Debug\week5_p1.Form3.resources
+C:\Users\Kane\source\repos\week5_p1\week5_p1\obj\Debug\week5_p1.Form4.resources

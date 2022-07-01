@@ -1,0 +1,10 @@
+C:\Users\Kane\source\repos\week7_practice_1\week7_practice_1\bin\Debug\week7_practice_1.exe.config
+C:\Users\Kane\source\repos\week7_practice_1\week7_practice_1\bin\Debug\week7_practice_1.exe
+C:\Users\Kane\source\repos\week7_practice_1\week7_practice_1\bin\Debug\week7_practice_1.pdb
+C:\Users\Kane\source\repos\week7_practice_1\week7_practice_1\obj\Debug\week7_practice_1.csprojAssemblyReference.cache
+C:\Users\Kane\source\repos\week7_practice_1\week7_practice_1\obj\Debug\week7_practice_1.Form1.resources
+C:\Users\Kane\source\repos\week7_practice_1\week7_practice_1\obj\Debug\week7_practice_1.Properties.Resources.resources
+C:\Users\Kane\source\repos\week7_practice_1\week7_practice_1\obj\Debug\week7_practice_1.csproj.GenerateResource.cache
+C:\Users\Kane\source\repos\week7_practice_1\week7_practice_1\obj\Debug\week7_practice_1.csproj.CoreCompileInputs.cache
+C:\Users\Kane\source\repos\week7_practice_1\week7_practice_1\obj\Debug\week7_practice_1.exe
+C:\Users\Kane\source\repos\week7_practice_1\week7_practice_1\obj\Debug\week7_practice_1.pdb

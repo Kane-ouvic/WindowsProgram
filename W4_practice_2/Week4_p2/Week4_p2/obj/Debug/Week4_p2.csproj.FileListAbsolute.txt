@@ -1,0 +1,7 @@
+C:\Users\Kane\source\repos\Week4_p2\Week4_p2\bin\Debug\Week4_p2.exe.config
+C:\Users\Kane\source\repos\Week4_p2\Week4_p2\bin\Debug\Week4_p2.exe
+C:\Users\Kane\source\repos\Week4_p2\Week4_p2\bin\Debug\Week4_p2.pdb
+C:\Users\Kane\source\repos\Week4_p2\Week4_p2\obj\Debug\Week4_p2.csprojAssemblyReference.cache
+C:\Users\Kane\source\repos\Week4_p2\Week4_p2\obj\Debug\Week4_p2.csproj.CoreCompileInputs.cache
+C:\Users\Kane\source\repos\Week4_p2\Week4_p2\obj\Debug\Week4_p2.exe
+C:\Users\Kane\source\repos\Week4_p2\Week4_p2\obj\Debug\Week4_p2.pdb
